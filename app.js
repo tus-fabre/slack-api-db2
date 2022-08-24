@@ -4,7 +4,7 @@
  * [FILE] app.js
  *
  * [DESCRIPTION]
- *  Lesson 5b - データを登録する
+ *  Lesson DB 2 - データを登録する
  * 
  * [NOTE]
  */
